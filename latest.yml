@@ -1,8 +1,8 @@
-version: 1.0.6
+version: 1.0.7
 files:
-  - url: Painel-Soluciona-Setup-1.0.6.exe
-    sha512: D+pNR2uhsZ2an6/d53+PAZbn+rLNF02vtyWxkVQ10M1/sZ1cR4VH9MAIN96DlcBbyxl47CwaqrNdkcBjHAjsMg==
-    size: 107314800
-path: Painel-Soluciona-Setup-1.0.6.exe
-sha512: D+pNR2uhsZ2an6/d53+PAZbn+rLNF02vtyWxkVQ10M1/sZ1cR4VH9MAIN96DlcBbyxl47CwaqrNdkcBjHAjsMg==
-releaseDate: '2026-07-24T20:35:27.477Z'
+  - url: Painel-Soluciona-Setup-1.0.7.exe
+    sha512: /6L8Ro+p394MmyVjfP6SocI1vvsGHrUkW/Ni3NVVjHBUaBbEznerhcOVhI7aFiNqd0D5qTh1osSbFitNLqPMvA==
+    size: 107314973
+path: Painel-Soluciona-Setup-1.0.7.exe
+sha512: /6L8Ro+p394MmyVjfP6SocI1vvsGHrUkW/Ni3NVVjHBUaBbEznerhcOVhI7aFiNqd0D5qTh1osSbFitNLqPMvA==
+releaseDate: '2026-07-24T20:39:25.336Z'
